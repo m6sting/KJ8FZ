@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>开卷八分钟AAC</title>
+		<link>http://192.168.1.220/podcast/kj8fz.html</link>
+		<description>开卷八分钟AAC</description>
+		<itunes:summary>读书</itunes:summary>
+		<itunes:author>梁文道</itunes:author>
+		<itunes:owner>
+			<itunes:name>开卷8分钟AAC</itunes:name>
+			<itunes:email>m6sting@gmail.com</itunes:email>
+		</itunes:owner>
+		<language>cn</language>
+		<image>
+			<url>http://192.168.1.220/podcast/kjbfz.jpg</url>
+			<title>开卷8分钟</title>
+			<link>http://192.168.1.220/podcast/kj8fz.html</link> 
+		</image>
+		<itunes:image href="http://192.168.1.220/podcast/kjbfz.jpg" />
+		<copyright>开卷</copyright>
+		<pubDate>2011-02-24 17:17:48</pubDate>
+		<itunes:category text="News &amp; Politics" />
+		<itunes:keywords>读书</itunes:keywords>
+		<media:keywords>读书</media:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<media:rating scheme="urn:simple">nonadult</media:rating>
+		<atom:link href="http://192.168.1.220/podcast/reader.xml" rel="self" type="applicat
+<item><title>20110224开卷八分钟 弗朗兹-法农《大地上的受苦者》</title><link>http://192.168.1.220/podcast/f23ab08f-0627-40e6-94ec-eca6d233e95e.aac</link><description></description><pubDate>2011-02-24 17:17:48</pubDate><enclosure url="http://192.168.1.220/podcast/f23ab08f-0627-40e6-94ec-eca6d233e95e.aac"/><guid isPermaLink="false">http://192.168.1.220/podcast/f23ab08f-0627-40e6-94ec-eca6d233e95e.aac</guid><media:content url="http://192.168.1.220/podcast/f23ab08f-0627-40e6-94ec-eca6d233e95e.aac"/></item>
+</channel></rss>
